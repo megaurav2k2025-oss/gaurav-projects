@@ -1,6 +1,0 @@
-langchain
-langchain-openai
-dotenv_load
-langchain-google-genai
-langchain-anthropic
-streamlit
